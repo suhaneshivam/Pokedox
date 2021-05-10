@@ -1,3 +1,6 @@
+![Pokemon](https://www.pyimagesearch.com/wp-content/uploads/2018/04/cnn_keras_squirtle_result_01.png)
+
+
 # Pokedox
 This deep nueral net can identify the 4 different Pokemons after training for 100 epochs with an accuracy of 82%.
 
