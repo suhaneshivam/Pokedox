@@ -11,11 +11,19 @@ SmallVggNet was used to train the network so that anyone having less sophisticat
 ## Dateset
 To download the dataset,user have to run _download_images.py_ script from cms which is included in helper folder.You also have to pass two additional 
 1) --output - indicating the directory where you want to download the dataset.
-2) --urls - where urls.txt files are located.
-`c:\location\of\the\python\file>python download_images.py --output output/location --urls location/of/urls.txt`
+2) --urls - where urls.txt files are located. <br />
+` c:\location\of\the\python\file>python download_images.py --output output/location --urls location/of/urls.txt `
 
-urls.txt files are included in urls folder.Additionally if you want to create own urls.txt file than:
-On Chrome: Settings>More Tools>Developer Tools>Console than paste the code included in url.js file present helper directory.Then search for the Pokenmon character you want to downlaod and scroll the images according to the number of images you want and then execute the code.This is automatically download the urls.txt file for you.You can repeat the steps for every character.
+urls.txt files are included in urls folder.Additionally if you want to create own urls.txt file than go to:
+#### On Chrome: 
+#### Settings>More Tools>Developer Tools>Console 
+then 
+1) Search for the Pokenmon character you want to downlaod 
+2) Scroll the images according to the number of images you want.
+3) Paste the code included in url.js file present helper directory.
+4) Execute the code.
+It would automatically download the urls.txt file for you. <br />  
+_Note : You have to repeat the above steps for every Pokenmon character._
 
 ## Output
 ![Plot](https://github.com/suhaneshivam/Pokedox/blob/main/output/plot.png?raw=true)
