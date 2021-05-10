@@ -18,6 +18,7 @@ urls.txt files are included in urls folder.Additionally if you want to create ow
 On Chrome: Settings>More Tools>Developer Tools>Console than paste the code included in url.js file present helper directory.Then search for the Pokenmon character you want to downlaod and scroll the images according to the number of images you want and then execute the code.This is automatically download the urls.txt file for you.You can repeat the steps for every character.
 
 ## Output
+![Plot](https://github.com/suhaneshivam/Pokedox/blob/main/output/plot.png?raw=true)
 
 
 
